@@ -92,7 +92,7 @@
 // // some && every
 
 // const isEven = numbers.some(number => number > 300)
-// const even = numbers.every(number => number > 300)
+const even = numbers.every(number => number > 300)
 
 // console.log(isEven,even)
 
