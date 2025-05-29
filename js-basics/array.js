@@ -182,7 +182,7 @@ numbers.sort((a,b)=> b-a) // a-b result -> +ve ?  swap  :no-swap
 // 34 - 4
 fruits.sort()
 
-console.log(numbers,fruits)
+console.log(numbers);
 
 const students = [
     {
